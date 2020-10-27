@@ -1,4 +1,4 @@
-### 🔭 Actualmente, trabajo en llenar mi perfil 😄   
+### 🔭 Actualmente ... trabajo en llenar mi perfil 😄   
 
 <!--
 **EddieAnrez/EddieAnrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
