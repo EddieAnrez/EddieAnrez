@@ -3,7 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com)
 # 👻Edder Serna - @EddieAnrez 👻
 
-## **Hi!** 🤗
+## **Hola!!** 🤗
 Ingeniero en Sistemas Computacionales, Actualmente soy estudiante de Maestria en Sistemas Computacionales, con linea de conocimiento en ***Diseño de Sistemas Inteligentes***.
 
 
